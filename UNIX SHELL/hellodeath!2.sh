@@ -1,0 +1,39 @@
+#!/bin/bash
+a=H
+b=e
+c=l
+d=l
+e=o
+f=" "
+g=W
+h=o
+i=r
+j=l
+k=d
+l="!"
+m="^"
+n="%"
+o="^"
+p="^"
+q="^"
+r="^"
+s="^"
+t="^"
+u="^"
+v="^"
+w="^"
+x="^"
+y="^"
+z="^"
+num0="^"
+num1="^"
+num2="^"
+num3="^"
+num4="^"
+num5="^"
+num6="^"
+num7="^"
+num8="^"
+num9="^"
+echo -n "${a}${b}${c}${d}${e}${f}${g}${h}${i}${j}${k}"
+echo "${l}${m}${n}${o}${p}${q}${r}${s}${t}${u}${v}${w}${x}${y}${z}${num0}${num1}${num2}${num3}${num4}${num5}${num6}${num7}${num8}${num9}"

@@ -1,0 +1,10 @@
+fn main() {
+    let hello_world = [
+        0x48u8, 0x65, 0x6C, 0x6C, 0x6F, 0x20, 0x57, 0x6F, 0x72, 0x6C, 0x64, 0x21,
+    ]
+    .iter()
+    .map(|&c| c as char)
+    .collect::<String>();
+
+    println!("{}", hello_world);
+}
